@@ -4,7 +4,7 @@ a Restaurant search app built in plain JavaScript
 This was an assignment for Noroff's Front-end 2nd Year course.
 We weren't allowed to use any external frameworks or libraries for the front-end so I made my own reactive view library inspired by hyperapp.
 
-[LIVE DEMO](http://bartektelec.github.io/foodie-app/)
+[LIVE DEMO](http://bartektelec.github.io/foodie-app/index.html)
 
 - Bootstrap based UI
 - Strapi as a back-end
