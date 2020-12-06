@@ -13,7 +13,7 @@ const spinner = new Component(
     class: "spinner-wrapper",
   },
   [
-    new Component("p", {}, "Loading..."),
+    new Component("p", {}, "Loading... server is stored on heroku, might take up to a minute to start up"),
     new Component("div", { class: "spinner-border text-primary" }),
   ]
 ).if(isLoading);
